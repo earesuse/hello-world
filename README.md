@@ -1,3 +1,3 @@
 # hello-world
 practica 3 github
-Hola me llamo Eva Arés, estudio biotecnología y tengo sueño.
+Hola somos Miguel Bang y Eva Arés y hemos hecho el lab juntos y tenemos sueño
